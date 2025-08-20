@@ -1,0 +1,3 @@
+# Coffee PID Controller Dependencies
+# No external dependencies required for basic functionality
+# All modules used are part of Python standard library
